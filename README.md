@@ -14,4 +14,5 @@
 
 ## Mô tả.
   Sử dụng phần mềm Blender để thiết kế và mô phỏng trạng thái máy bay bay lượn trên bầu trời.
-  
+  Ở đây, nhóm chúng tôi thực hiện mô phỏng máy bay AirBus A321-200.
+  Chi tiết hướng dẫn thực hiện cụ thể được trình bày trong báo cáo
