@@ -11,3 +11,7 @@
 | :-------------: |:-------------:|:-------------:|
 | 19522148     | Đào Văn Tài      |[Uranium1901](https://github.com/Uranium1901)|
 | 19521725 | Ngô Gia Kiệt      |[twice1st](https://github.com/twice1st)|
+
+## Mô tả.
+  Sử dụng phần mềm Blender để thiết kế và mô phỏng trạng thái máy bay bay lượn trên bầu trời.
+  
