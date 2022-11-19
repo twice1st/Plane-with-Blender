@@ -12,10 +12,10 @@
 | 19522148     | Đào Văn Tài      |[Uranium1901](https://github.com/Uranium1901)|
 | 19521725 | Ngô Gia Kiệt      |[twice1st](https://github.com/twice1st)|
 
-## Mô tả.
+## MÔ TẢ.
   - Sử dụng phần mềm Blender để thiết kế và mô phỏng trạng thái máy bay bay lượn trên bầu trời.
   - Ở đây, nhóm chúng tôi thực hiện mô phỏng máy bay AirBus A321-200.
   - Chi tiết hướng dẫn thực hiện cụ thể được trình bày trong báo cáo
 
-## Kết quả.
+## KẾT QUẢ.
 [Video](https://drive.google.com/file/d/1uUixeFyg7AGgz4aKSrjHItWLimoHR7n3/view?usp=sharing)
